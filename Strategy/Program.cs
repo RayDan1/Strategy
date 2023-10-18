@@ -1,4 +1,7 @@
-﻿using System.Runtime.CompilerServices;
+﻿//El Patron de Strategy es un patron de comportamiento,
+//que define una familia de algoritmos, encapsula cada uno de ellos y los hace intercambiables.
+//Strategy permite que el algoritmo varie independientemente de los clientes que lo utilizan.
+using System.Runtime.CompilerServices;
 
 namespace Strategy
 {
